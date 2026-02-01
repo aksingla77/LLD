@@ -55,6 +55,7 @@ public class Singleton {
 
 ## UML Diagram: 
 
+<img width="1106" height="532" alt="Screenshot 2026-02-01 224757" src="https://github.com/user-attachments/assets/84fb7b10-f7d1-4150-866d-fc069a8589b0" />
 
 ---
 
