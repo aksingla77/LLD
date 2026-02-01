@@ -29,7 +29,7 @@ You are building an application that needs to interact with a **database**. Mult
 
 ---
 
-## Solution (Basic Implementation in Java)
+## Basic Implementation of Singleton Class in Java
 
 ```java
 public class Singleton {
@@ -47,7 +47,14 @@ public class Singleton {
 }
 ```
 
+
 > **That's it!** Three things: private static instance, private constructor, public static getInstance().
+
+---
+
+
+## UML Diagram: 
+
 
 ---
 
