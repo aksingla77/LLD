@@ -32,12 +32,12 @@ We need to ensure we don't mix Indian SMS with US WhatsApp configs!
 ## UML Diagrams
 
 ### General Pattern Structure
+<img width="2659" height="1571" alt="Abstract Factory General" src="https://github.com/user-attachments/assets/182efaec-948e-4258-9346-43ed4806fcb3" />
 
-<!-- TODO: Add abstract-factory-general-uml.png -->
 
 ### OTP Example (Regional Providers)
 
-<!-- TODO: Add abstract-factory-example-uml.png -->
+<img width="3097" height="1603" alt="Abstract Factory OTP" src="https://github.com/user-attachments/assets/a609f162-c179-43af-913f-0ffaaf4425a7" />
 
 ---
 
