@@ -95,11 +95,13 @@ public class AuthService {
 
 ### General Pattern Structure
 
-<!-- TODO: Add simple-factory-general-uml.png -->
+<img width="1571" height="963" alt="Simple Factory general" src="https://github.com/user-attachments/assets/f3fdbb02-b5b3-45d7-9b64-6a2b840fea7b" />
+
 
 ### OTP Example
 
 <!-- TODO: Add simple-factory-example-uml.png -->
+<img width="1393" height="723" alt="Simple Factory OTP" src="https://github.com/user-attachments/assets/c98cae80-00ef-4916-bc78-a1b5f2a67827" />
 
 ---
 
