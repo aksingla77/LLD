@@ -35,12 +35,13 @@ Each service subclass knows how to create its specific sender!
 ## UML Diagrams
 
 ### General Pattern Structure
+<img width="2313" height="1139" alt="Factory Method general" src="https://github.com/user-attachments/assets/da0d4579-38bd-4122-b52a-8778e0cc35cb" />
 
-<!-- TODO: Add factory-method-general-uml.png -->
 
 ### OTP Example
 
-<!-- TODO: Add factory-method-example-uml.png -->
+<img width="2524" height="1219" alt="Factory Method OTP" src="https://github.com/user-attachments/assets/d1a04feb-c042-402b-9eca-d0429bbdf2f9" />
+
 
 ---
 
