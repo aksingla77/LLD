@@ -27,10 +27,6 @@
 | [Factory Method](./Factory-Method-Pattern/Factory-Method-Pattern.md)       | Inheritance-based creation        | Subclasses need to control creation          |
 | [Abstract Factory](./Abstract-Factory-Pattern/Abstract-Factory-Pattern.md) | Factory of factories for families | Multiple related products that work together |
 
-### UML Overview
-
-<!-- TODO: Add factory-patterns-overview.png -->
-
 ---
 
 ## Comparison Table

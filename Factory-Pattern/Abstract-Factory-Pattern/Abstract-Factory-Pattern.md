@@ -29,9 +29,15 @@ We need to ensure we don't mix Indian SMS with US WhatsApp configs!
 
 ---
 
-## UML Diagram
+## UML Diagrams
 
-<!-- TODO: Add abstract-factory-uml.png -->
+### General Pattern Structure
+
+<!-- TODO: Add abstract-factory-general-uml.png -->
+
+### OTP Example (Regional Providers)
+
+<!-- TODO: Add abstract-factory-example-uml.png -->
 
 ---
 

@@ -91,9 +91,15 @@ public class AuthService {
 
 ---
 
-## UML Diagram
+## UML Diagrams
 
-<!-- TODO: Add simple-factory-uml.png -->
+### General Pattern Structure
+
+<!-- TODO: Add simple-factory-general-uml.png -->
+
+### OTP Example
+
+<!-- TODO: Add simple-factory-example-uml.png -->
 
 ---
 
