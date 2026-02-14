@@ -8,5 +8,6 @@
             "source.organizeImports": "explicit"
         }
     },
-    "java.format.enabled": true
+    "java.format.enabled": true,
+    "java.debug.settings.onBuildFailureProceed": true
 }

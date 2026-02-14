@@ -15,6 +15,7 @@ This is the repo for the LLD course material including docs and code.
 | ↳ Factory Method      | Inheritance-based creation                     | [Guide](Factory-Pattern/Factory-Method-Pattern/Factory-Method-Pattern.md)     |
 | ↳ Abstract Factory    | Families of related products                   | [Guide](Factory-Pattern/Abstract-Factory-Pattern/Abstract-Factory-Pattern.md) |
 | **Singleton Pattern** | Ensure single instance of a class              | [Guide](Singleton-Pattern/Singleton-Pattern.md)                               |
+| **Builder Pattern**   | Construct complex objects step by step         | [Guide](Builder-Pattern/Builder-Pattern.md)                                   |
 
 ---
 
