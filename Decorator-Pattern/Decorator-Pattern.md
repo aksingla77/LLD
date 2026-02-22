@@ -163,6 +163,22 @@ System.out.println(order.getCost());        // 6.50
 
 ---
 
+## UML Diagram (Standard)
+
+<!-- TODO: Add standard Decorator Pattern UML diagram here -->
+
+![Standard Decorator Pattern UML Diagram]()
+
+---
+
+## UML Diagram (Bar Example)
+
+<!-- TODO: Add Bar Example specific UML diagram here -->
+
+![Bar Example UML Diagram]()
+
+---
+
 ## Implementation
 
 ```java
