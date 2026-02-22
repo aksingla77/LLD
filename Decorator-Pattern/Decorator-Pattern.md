@@ -165,17 +165,15 @@ System.out.println(order.getCost());        // 6.50
 
 ## UML Diagram (Standard)
 
-<!-- TODO: Add standard Decorator Pattern UML diagram here -->
+<img width="2374" height="1571" alt="Standard UML Decorator" src="https://github.com/user-attachments/assets/43b7028c-42b4-4719-9e64-56703e68a4f2" />
 
-![Standard Decorator Pattern UML Diagram]()
 
 ---
 
 ## UML Diagram (Bar Example)
 
-<!-- TODO: Add Bar Example specific UML diagram here -->
+<img width="2531" height="1891" alt="Example UML Decorator" src="https://github.com/user-attachments/assets/74c419c7-0913-4099-898f-6362bf476cef" />
 
-![Bar Example UML Diagram]()
 
 ---
 
