@@ -17,6 +17,12 @@ This is the repo for the LLD course material including docs and code.
 | **Singleton Pattern** | Ensure single instance of a class              | [Guide](Singleton-Pattern/Singleton-Pattern.md)                               |
 | **Builder Pattern**   | Construct complex objects step by step         | [Guide](Builder-Pattern/Builder-Pattern.md)                                   |
 
+### Structural Patterns
+
+| Pattern               | Description                          | Guide                                           |
+| --------------------- | ------------------------------------ | ----------------------------------------------- |
+| **Decorator Pattern** | Add behaviors to objects dynamically | [Guide](Decorator-Pattern/Decorator-Pattern.md) |
+
 ---
 
 <img width="2560" height="1440" alt="Zero Tech Debt" src="https://github.com/user-attachments/assets/206750b7-f291-4c53-8cde-6314cc911480" />
