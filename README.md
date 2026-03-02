@@ -19,9 +19,10 @@ This is the repo for the LLD course material including docs and code.
 
 ### Structural Patterns
 
-| Pattern               | Description                          | Guide                                           |
-| --------------------- | ------------------------------------ | ----------------------------------------------- |
-| **Decorator Pattern** | Add behaviors to objects dynamically | [Guide](Decorator-Pattern/Decorator-Pattern.md) |
+| Pattern               | Description                                | Guide                                           |
+| --------------------- | ------------------------------------------ | ----------------------------------------------- |
+| **Adapter Pattern**   | Make incompatible interfaces work together | [Guide](Adapter-Pattern/Adapter-Pattern.md)     |
+| **Decorator Pattern** | Add behaviors to objects dynamically       | [Guide](Decorator-Pattern/Decorator-Pattern.md) |
 
 ---
 
