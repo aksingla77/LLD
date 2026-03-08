@@ -201,16 +201,15 @@ checkout.checkout("customer123", 50);
 ## UML Diagram (Payment Example)
 
 <!-- TODO: Add Payment Example specific UML diagram here -->
-
-![Payment Example UML Diagram]()
+<img width="1356" height="1411" alt="adapter diagram" src="https://github.com/user-attachments/assets/adb757af-7782-4311-b2ba-a4baabf54508" />
 
 ---
 
 ## UML Diagram (Standard)
 
 <!-- TODO: Add standard Adapter Pattern UML diagram here -->
+<img width="1356" height="870" alt="adapter generic uml" src="https://github.com/user-attachments/assets/dc5f1a55-9c12-4d35-a1e1-ba0842ca0888" />
 
-![Standard Adapter Pattern UML Diagram]()
 
 ---
 
