@@ -63,7 +63,7 @@ public void placeOrder(Order order) {
 - Complex coordination logic exposed to client
 - Changes in subsystem affect all clients
 
-<!-- TODO: Add diagram for Without Facade approach -->
+<img width="1536" height="537" alt="Screenshot 2026-03-09 130258" src="https://github.com/user-attachments/assets/2383ec95-9900-4d5f-a8ba-3ebdd56a955f" />
 
 ---
 
@@ -83,7 +83,8 @@ public void placeOrder(Order order) {
 - Client doesn't know about subsystem internals
 - Easy to change subsystem without affecting clients
 
-<!-- TODO: Add diagram for With Facade approach -->
+<img width="1562" height="790" alt="Screenshot 2026-03-09 130150" src="https://github.com/user-attachments/assets/1fb14d06-8ee1-42f3-b507-e6f2b9dc27c0" />
+
 
 ---
 
