@@ -23,6 +23,7 @@ This is the repo for the LLD course material including docs and code.
 | --------------------- | ------------------------------------------ | ----------------------------------------------- |
 | **Adapter Pattern**   | Make incompatible interfaces work together | [Guide](Adapter-Pattern/Adapter-Pattern.md)     |
 | **Decorator Pattern** | Add behaviors to objects dynamically       | [Guide](Decorator-Pattern/Decorator-Pattern.md) |
+| **Facade Pattern**    | Simplify complex subsystem interfaces      | [Guide](Facade-Pattern/Facade-Pattern.md)       |
 
 ---
 
