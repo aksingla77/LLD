@@ -85,33 +85,6 @@ public void placeOrder(Order order) {
 
 <img width="1562" height="790" alt="Screenshot 2026-03-09 130150" src="https://github.com/user-attachments/assets/1fb14d06-8ee1-42f3-b507-e6f2b9dc27c0" />
 
-
----
-
-## Class Diagram
-
-```
-┌─────────────┐
-│   Client    │
-└──────┬──────┘
-       │ uses
-       ▼
-┌─────────────────────┐
-│    OrderFacade      │
-│  ─────────────────  │
-│  + placeOrder()     │
-│  + cancelOrder()    │
-└─────────┬───────────┘
-          │ delegates to
-          ▼
-┌───────────────────────────────────────────────────────────┐
-│                       Subsystem                           │
-│  ┌─────────┐ ┌─────────┐ ┌─────────┐ ┌─────────┐ ┌──────┐ │
-│  │Inventory│ │ Payment │ │ Invoice │ │Shipping │ │Email │ │
-│  └─────────┘ └─────────┘ └─────────┘ └─────────┘ └──────┘ │
-└───────────────────────────────────────────────────────────┘
-```
-
 ---
 
 ## Facade vs Other Patterns
